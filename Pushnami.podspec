@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                        DESC
 
   s.homepage         = 'https://github.com/pushnami/ios-sdk-pod'
-  s.license          = { :type => 'MIT', :file => 'Pushnami/LICENSE' }
+  s.license          = { :type => 'GPL', :file => './Pushnami/LICENSE' }
   s.author           = { 'Pushnami' => 'support@pushnami.com' }
   s.source           = { :git => 'https://github.com/pushnami/ios-sdk-pod.git', :tag => s.version.to_s }
 
